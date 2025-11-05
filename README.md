@@ -2,7 +2,7 @@
 
 Đây là trang web HTML đơn giản tôi tạo để chia sẻ với bạn bè.
 
-[Xem trang web](https://Giasuo.github.io/20-10/)
+[Xem trang web](https://giasuo.github.io/TangVo/)
 
 ## Cách chạy local
 1. Tải repo: `git clone https://github.com/Giasuo/20-10.git`
